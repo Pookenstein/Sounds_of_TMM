@@ -1,7 +1,7 @@
 Instructions:
  - Download
  - Extract CustomSounds into "_classic_" folder using Winzip/Winrar/7zip.
- - Traverse CustomSounds to make sure folder structure 
+ - Traverse CustomSounds to make sure folder structure is in tact.
  - Turn on game.
  - Delete TMM Soundpack if it already exists.
  - Import the string below (do not copy the lines containing --------)
